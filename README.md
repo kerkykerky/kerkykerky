@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **C++ and UnrealEngine**
 
-- 🤝 I’m looking for a new job opportunity in **Gaming development**
+- 🤝 I’m looking for a new job opportunity in **Game development**
 
 - 💬 Ask me about **anything**
 
