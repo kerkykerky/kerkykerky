@@ -44,7 +44,7 @@
   <img src="/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/languages/js.svg" alt="jvs" style="vertical-align:top; margin:4px">
-  <img src="/dev/languages/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
+  <img src="/svg/dev/languages/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/tools/android_studio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
