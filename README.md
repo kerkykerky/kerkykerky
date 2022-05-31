@@ -51,13 +51,8 @@
   <img src="/svg/dev/tools/jetbrains_intellij.svg" alt="intelij" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/tools/visualstudio.svg" alt="VS" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/tools/visualstudio_code.svg" alt="VSC" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/misc/datascience.svg" alt="DSC" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/misc/gamedev.svg" alt="gameDev" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/devices/pc.svg" alt="pc" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/devices/raspberrypi.svg" alt="raspberry" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
  </p>
