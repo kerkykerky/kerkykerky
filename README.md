@@ -21,6 +21,10 @@
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" width="320" height="auto"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerkykerky)](https://github.com/anuraghazra&show_icons=true)
+
+
+
 - 🌱 I’m currently learning **C++ and UnrealEngine**
 
 - 🤝 I’m looking for a new job opportunity in **Game development**
@@ -30,9 +34,6 @@
 - 📫 How to reach me **keratatomas@gmail.com**
 
 - ⚡ Fun fact **The first person convicted of speeding was going eight mph.**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <h1 align="center">
    <i>- Languages and Tools...</i>
