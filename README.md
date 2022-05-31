@@ -21,9 +21,11 @@
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" width="320" height="auto"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerkykerky)](https://github.com/anuraghazra&show_icons=true)
-
-
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=kerkykerky&show_icons=true&theme=gotham&hide=stars,issues" width="500" height="300" />
+   <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="500" />
+</div>
+</br>
 
 - 🌱 I’m currently learning **C++ and UnrealEngine**
 
