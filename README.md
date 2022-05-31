@@ -22,8 +22,8 @@
 </p>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=kerkykerky&show_icons=true&theme=gotham&hide=stars,issues" width="500" height="300" />
-   <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="500" />
+   <img src="https://github-readme-stats.vercel.app/api?username=kerkykerky&show_icons=true&theme=gotham&hide=stars,issues" width="350" height="300" />
+   <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="350" />
 </div>
 </br>
 
