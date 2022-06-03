@@ -57,5 +57,4 @@
   <img src="/svg/dev/misc/gamedev.svg" alt="gameDev" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
   <img src="/svg/dev/devices/raspberrypi.svg" alt="raspberry" style="vertical-align:top; margin:4px">
-  <img src="/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
  </p>
