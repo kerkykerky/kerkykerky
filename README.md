@@ -10,7 +10,7 @@
 </p>
  
  <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tomas Kerata | 💻 Full Stack Developer | 🛸 Slovakia <img                    src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tomas Kerata | 💻 Back-End Java Developer | 🛸 Slovakia <img                    src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <h4 align="center">
@@ -27,13 +27,13 @@
 </div>
 </br>
 
-- 🌱 I’m currently learning **C++ and UnrealEngine**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for a new job opportunity in **Game development**
+- 🤝 I’m looking for a new job opportunity in **Banking Sphere**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **keratatomas@gmail.com**
+- 📫 How to reach me <a href="https://bit.ly/3Dkpikx">My LinkedIn Profile</a>
 
 - ⚡ Fun fact **The first person convicted of speeding was going eight mph.**
 
