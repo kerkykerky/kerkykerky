@@ -4,13 +4,10 @@
 
 <p align='center'>
    <a href="https://bit.ly/3Dkpikx"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/kerkykerkyy"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://open.spotify.com/user/3143nbjnjivwringlqnoglzeby5i?si=ofDQyCCsSM6NsSh0ontcaw&utm_source=copy-link
-   "><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </p>
  
  <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tomas Kerata | 💻 Back-End Java Developer | 🛸 Slovakia <img                    src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Back-End Java Developer | 🛸 Slovakia <img                    src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <h4 align="center">
@@ -22,20 +19,9 @@
 </p>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=kerkykerky&show_icons=true&theme=gotham&hide=stars,issues" width="350" />
    <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="350" />
 </div>
 </br>
-
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for a new job opportunity in **Banking Sphere**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me <a href="https://bit.ly/3Dkpikx">My LinkedIn Profile</a>
-
-- ⚡ Fun fact **The first person convicted of speeding was going eight mph.**
 
 <h1 align="center">
    <i>- Languages and Tools...</i>
